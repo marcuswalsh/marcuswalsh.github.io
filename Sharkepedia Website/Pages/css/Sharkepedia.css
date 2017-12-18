@@ -1,0 +1,16 @@
+#heading{
+	text-align: center;
+	font-family: "Comic Sans MS", sans-serif;
+	color: #00B3B4;
+	line-height: 70%;
+}
+
+body{
+	background: linear-gradient(blue, black);
+	font-family: "Comic Sans MS", sans-serif;
+	color: #00B3B4;
+}
+
+html{
+	min-height: 100%;
+}
