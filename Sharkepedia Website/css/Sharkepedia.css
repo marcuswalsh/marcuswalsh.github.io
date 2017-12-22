@@ -1,0 +1,40 @@
+#heading{
+	font-family: "Comic Sans MS", sans-serif;
+	color: #00B3B4;
+	line-height: 70%;
+}
+
+body{
+	background: linear-gradient(black, blue);
+	font-family: "Comic Sans MS", sans-serif;
+	color: #00B3B4;
+	text-align: center;
+}
+
+html{
+	min-height: 100%;
+}
+
+p{
+	font-size: 150%;
+}
+
+.fine.print{
+	position: absolute;
+	bottom: 0;
+}
+
+li {
+    display: inline;
+	font-family: "Comic Sans MS", sans-serif;
+	color: #00B3B4;
+	margin: 10px;
+}
+
+ul {
+	background-color: #B86D00;
+}
+
+#footer{
+	font-size: 60%;
+}
